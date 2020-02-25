@@ -52,7 +52,7 @@
     "babel:compile": "cross-env BABEL_ENV=production babel src/ --out-dir compiled/ --copy-files"
   },
   "dependencies": {
-    "@babel/register": "^7.4.4",
+    "@babel/register": "^7.8.3",
     "applescript": "^1.0.0",
     "auto-launch": "^5.0.5",
     "body-parser": "^1.18.2",
