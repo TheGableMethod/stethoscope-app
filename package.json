@@ -59,10 +59,10 @@
     "chalk": "^2.4.2",
     "classnames": "^2.2.5",
     "cors": "^2.8.4",
-    "cross-env": "^5.2.0",
+    "cross-env": "^6.0.0",
     "electron-notarize": "^0.2.1",
     "electron-settings": "^3.2.x",
-    "electron-updater": "4.0.6",
+    "electron-updater": "4.2.1",
     "express": "^4.16.2",
     "extend": "^3.0.2",
     "fast-glob": "^2.2.6",
@@ -80,12 +80,12 @@
     "node-powershell": "^3.3.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "semver": "^5.4.1",
+    "semver": "^7.5.2",
     "serialize-error": "^2.1.0",
     "showdown": "^1.8.6",
     "socket.io": "^2.0.4",
     "winston": "3.1.0",
-    "winston-daily-rotate-file": "^3.3.0"
+    "winston-daily-rotate-file": "^4.0.0"
   },
   "devDependencies": {
     "@babel/cli": "7.4.4",
