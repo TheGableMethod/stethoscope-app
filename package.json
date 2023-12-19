@@ -65,7 +65,7 @@
     "electron-updater": "4.0.6",
     "express": "^4.16.2",
     "extend": "^3.0.2",
-    "fast-glob": "^2.2.6",
+    "fast-glob": "^3.0.0",
     "generic-pool": "^3.4.2",
     "graphql": "^14.3.1",
     "graphql-server-express": "^1.2.0",
