@@ -60,7 +60,7 @@
     "classnames": "^2.2.5",
     "cors": "^2.8.4",
     "cross-env": "^5.2.0",
-    "electron-notarize": "^0.2.1",
+    "electron-notarize": "^1.2.2",
     "electron-settings": "^3.2.x",
     "electron-updater": "4.0.6",
     "express": "^4.16.2",
